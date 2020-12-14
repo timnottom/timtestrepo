@@ -1,5 +1,2 @@
 # timtestrepo
-testingg
-
-jaja
-nounou
+testing
